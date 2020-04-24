@@ -1,6 +1,6 @@
 
 # SOrec
-This repository contains the source code implementation of SOrec and the datasets used to replicate the experimental results of our ISSTA'20 paper:
+This repository contains the source code implementation of SOrec and the datasets used to replicate the experimental results of our IST paper:
 
 _Mining software developer’s context to automatically recommend highly relevant StackOverflow post_
 
