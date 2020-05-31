@@ -1,21 +1,21 @@
 
-# SOrec
-This repository contains the source code implementation of SOrec and the datasets used to replicate the experimental results of our IST paper:
+# PostFinder
+This repository contains the source code implementation of PostFinder and the datasets used to replicate the experimental results of our paper submitted to Information and Software Technology Journal:
 
-_Mining software developer’s context to automatically recommend highly relevant StackOverflow post_
+_Mining software developer’s context to automatically recommend highly relevant Stack Overflow post_
 
 
 ## Introduction
-During the development of complex software systems, programmers look for external resources to understand better how to use specific APIs and to get advice related to their current tasks. StackOverflow provides developers with a broader insight of API 	usage and with useful code examples. However, finding StackOverflow posts that are relevant to the current context is a strenuous task. In this paper, we introduce SOrec, an approach that allows developers to retrieve messages from StackOverflow being relevant to the API function calls that they have already defined, as well as to the external libraries included in the project being developed. The approach has been validated by means of a user study involving 11 developers who had to evaluate 500 posts with respect to 50 contexts. Experimental results indicate the suitability of Sorec to recommend relevant StackOverflow posts and concurrently show that the tool outperforms a well-established baseline.
+During the development of complex software systems, programmers look for external resources to understand better how to use specific APIs and to get advice related to their current tasks. Stack Overflow provides developers with a broader insight of API usage and with useful code examples. However, finding Stack Overflow posts that are relevant to the current context is a strenuous task. In this paper, we introduce PostFinder, an approach that allows developers to retrieve messages from Stack Overflow being relevant to the API function calls that they have already defined, as well as to the external libraries included in the project being developed. The approach has been validated by means of a user study involving 11 developers to evaluate 500 posts with respect to 50 contexts. Experimental results indicate the suitability of PostFinder to recommend relevant Stack Overflow posts and concurrently show that the tool outperforms a well-established baseline.
 
 ## Repository Structure
 This repository is organized as follows:
 
-* The [tools](./tools) directory contains the implementation of SOrec we developed;
-* The [user-study](./user-study) directory contains the user study conducted to evaluate FaCoY and SOrec. In particular, this [excel file](./user-study/UserEvaluationResults.xlsx) provides a summary on the result.
+* The [tools](./tools) directory contains the implementation of PostFinder we developed;
+* The [user-study](./user-study) directory contains the user study conducted to evaluate FaCoY and PostFinder. In particular, this [excel file](./user-study/UserEvaluationResults.xlsx) provides a summary on the result.
 
 ## Questionnaires
-The following links provide the questionnaires we have conducted to evaluate FaCoY and SOrec:
+The following links provide the questionnaires we have conducted to evaluate FaCoY and PostFinder:
 
 * [First questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScyfDQsf5wz0gze6Z_CZfhrqy71f4h8KiWl-nX-6vm0rh2YlA/viewform?usp=pp_url);
 * [Second questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSdngaMJKtA3cCtjnzz2Br3qEGUV5ok1P9MkWAtP-PmjHcpa0A/viewform);
