@@ -2,7 +2,7 @@
 # PostFinder
 This repository contains the source code implementation of PostFinder and the datasets used to replicate the experimental results of our paper which has been accepted for publication in Information and Software Technology Journal:
 
-_Mining software developer’s context to automatically recommend highly relevant Stack Overflow post_
+_PostFinder: Mining Stack Overflot posts to support software developers_
 
 
 ## Introduction
