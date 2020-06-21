@@ -4,6 +4,7 @@ This repository contains the source code implementation of PostFinder and the da
 
 _PostFinder: Mining Stack Overflot posts to support software developers_
 
+A pre-print version of the paper is available [here](https://github.com/MDEGroup/PostFinder/blob/master/IST-SOrec.pdf).
 
 ## Introduction
 During the development of complex software systems, programmers look for external resources to understand better how to use specific APIs and to get advice related to their current tasks. Stack Overflow provides developers with a broader insight of API usage and with useful code examples. However, finding Stack Overflow posts that are relevant to the current context is a strenuous task. In this paper, we introduce PostFinder, an approach that allows developers to retrieve messages from Stack Overflow being relevant to the API function calls that they have already defined, as well as to the external libraries included in the project being developed. The approach has been validated by means of a user study involving 11 developers to evaluate 500 posts with respect to 50 contexts. Experimental results indicate the suitability of PostFinder to recommend relevant Stack Overflow posts and concurrently show that the tool outperforms a well-established baseline.
