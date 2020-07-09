@@ -30,3 +30,24 @@ The following links provide the questionnaires we have conducted to evaluate FaC
 mvn exec:java -Dexec.mainClass="soRec.Main" -Dexec.args="-indexFolder /path/to/luceneIndex -queryFolder /path/to/codeContexts"
 ```
 
+
+
+
+## How to cite
+If you find our work useful for your research, please cite the paper using the following BibTex entry:
+
+```
+@article{RUBEI2020106367,
+title = "PostFinder: Mining Stack Overflow posts to support software developers",
+journal = "Information and Software Technology",
+volume = "127",
+pages = "106367",
+year = "2020",
+issn = "0950-5849",
+doi = "https://doi.org/10.1016/j.infsof.2020.106367",
+url = "http://www.sciencedirect.com/science/article/pii/S0950584920301361",
+author = "Riccardo Rubei and Claudio {Di Sipio} and Phuong T. Nguyen and Juri {Di Rocco} and Davide {Di Ruscio}",
+keywords = "Recommender systems, Mining Stack Overflow posts, Indexing posts"}
+
+```
+
