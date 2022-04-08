@@ -2,7 +2,7 @@
 # PostFinder
 This repository contains the source code implementation of PostFinder and the datasets used to replicate the experimental results of our paper which has been accepted for publication in Information and Software Technology Journal:
 
-_PostFinder: Mining Stack Overflot posts to support software developers_
+_PostFinder: Mining Stack Overflow posts to support software developers_
 
 A pre-print version of the paper is available [here](https://github.com/MDEGroup/PostFinder/blob/master/IST-SOrec.pdf).
 
